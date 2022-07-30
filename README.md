@@ -1,7 +1,7 @@
 # Flipkart Grid 4.0
 # Extract trends from social media data
 AIM:
-The project aims to create a full fledged website that extracts data from various social media platforms (viz. Facebook, Instagram, Twitter) in real time and calculates the trending score of the products displaying the top trending products. It also provides the users with the Flipkart gateway to directly purchase the products. It also has a user search query which allows the users to search for their own fsahion trends and get details of their product on different social media platforms.
+The project aims to create a full fledged website that extracts data from various social media platforms (viz. Facebook, Instagram, Twitter) in real time and calculates the trending score of the products displaying the top trending products. It also provides the users with the Flipkart gateway to directly purchase the products. It also has a user search query which allows the users to search for their own fashion trends and get details of their product on different social media platforms.
 
 REQUIREMENTS:
 STEP1 - Clone the repository in your device using ```git clone``` or you can simply download the code file from this github repository.
